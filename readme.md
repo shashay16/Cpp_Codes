@@ -1,0 +1,1 @@
+# This is C++ and Design Pattern learning project.
